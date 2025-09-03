@@ -82,7 +82,7 @@
       header h1 {font-size: 1.8rem;}
       section {padding: 1rem;}
     }
-  </style>
+</style>
 </head>
 <body>
  
